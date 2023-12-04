@@ -1,6 +1,5 @@
 <fable>
 	<page background="roulette.jpg" >
-     <agent img="hipnoterapia.png" x="50" y="50" width=""/>
-     <agent img=""
+     <agent img="hipnoterapia.png" x="50" y="50" width="20" heigth="20"/>
   </page>
 </fable>
