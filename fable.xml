@@ -1,5 +1,5 @@
 <fable>
-	<page background="roulette.jpg">
+	<page background="roulette.jpg" >
     <agent img="hipnoterapia.png" x="300" y="450" width="20" heigth="20"/>
   </page>
 </fable>
